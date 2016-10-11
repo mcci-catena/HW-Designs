@@ -1,4 +1,4 @@
-update=2016-10-11 18:21:03
+update=2016-10-11 18:29:02
 version=1
 last_client=kicad
 [pcbnew]
@@ -37,7 +37,7 @@ SpiceUseNetNumbers=0
 LabSize=60
 [eeschema]
 version=1
-LibDir=../pond-soil-proto
+LibDir=../lib
 [eeschema/libraries]
 LibName1=mcci-iot-components
 LibName2=sensors
