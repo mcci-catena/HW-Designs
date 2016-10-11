@@ -1,20 +1,20 @@
 EESchema Schematic File Version 2
-LIBS:greenhouse
+LIBS:mcci-iot-components
 LIBS:sensors
 LIBS:conn
 LIBS:power
 LIBS:ac-dc
 LIBS:analog_devices
 LIBS:device
-LIBS:greenhouse-cache
+LIBS:pond-soil-proto-cache
 EELAYER 25 0
 EELAYER END
 $Descr B 17000 11000
 encoding utf-8
 Sheet 1 1
-Title "greenhouse.sch"
+Title "pond-soil-proto.sh"
 Date "2016-10-11"
-Rev "4"
+Rev "5"
 Comp "MCCI Corporation"
 Comment1 "Prototype Soil + Pond Sensor"
 Comment2 "www.mcci.com"
@@ -371,4 +371,6 @@ Text Notes 14200 600  0    60   ~ 12
 REVISION HISTORY
 Text Notes 12950 1150 0    60   ~ 0
 4. Change R1 to 4.7K. Soil sensor is not I2C so reroute to D10 and D11. \n   Add 10K pull-up to Soil.SDA. Improve labels on library for Feature M0\n   assembly to make the pre-defined pins easier to understand.  Make a \n   new library shape for Catena 4410, since that's what this is. Change P3\n   and P5 to match as-built
+Text Notes 12950 1250 0    60   ~ 0
+5. Rename to pond-soil-proto.
 $EndSCHEMATC
