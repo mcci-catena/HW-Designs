@@ -1,0 +1,21 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP Catena_4410
+D MCCI Feather M0 LoRaWAN Arduino-based assembly
+K LoRaWAN, Catena
+$ENDCMP
+#
+$CMP DS18B20
+D OneWire Temerature Sensor
+K Sensor
+$ENDCMP
+#
+$CMP FEATHER_LoRa_M0
+D SAM21 Arduino-based board with LoRa
+$ENDCMP
+#
+$CMP SHT10
+D I2C Soil Temperature/Humidity Sensor
+$ENDCMP
+#
+#End Doc Library
