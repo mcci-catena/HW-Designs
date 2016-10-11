@@ -1,4 +1,4 @@
-update=2016-10-11 00:10:42
+update=2016-10-11 18:21:03
 version=1
 last_client=kicad
 [pcbnew]
@@ -25,17 +25,6 @@ version=1
 NetIExt=net
 [general]
 version=1
-[eeschema]
-version=1
-LibDir=
-[eeschema/libraries]
-LibName1=greenhouse
-LibName2=sensors
-LibName3=conn
-LibName4=power
-LibName5=ac-dc
-LibName6=analog_devices
-LibName7=device
 [schematic_editor]
 version=1
 PageLayoutDescrFile=
@@ -46,3 +35,14 @@ NetFmtName=
 SpiceForceRefPrefix=0
 SpiceUseNetNumbers=0
 LabSize=60
+[eeschema]
+version=1
+LibDir=../pond-soil-proto
+[eeschema/libraries]
+LibName1=mcci-iot-components
+LibName2=sensors
+LibName3=conn
+LibName4=power
+LibName5=ac-dc
+LibName6=analog_devices
+LibName7=device
