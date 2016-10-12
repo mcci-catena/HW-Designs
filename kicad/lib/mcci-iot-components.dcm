@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP SHT10
+D Sensiron SHT1x Soil Sensor from Adafruit
+F https://www.adafruit.com/products/1298
+$ENDCMP
+#
+#End Doc Library
