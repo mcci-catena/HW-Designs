@@ -1,4 +1,4 @@
-update=2016-10-12 20:12:32
+update=2016-10-13 00:02:04
 version=1
 last_client=kicad
 [pcbnew]
@@ -29,8 +29,8 @@ version=1
 version=1
 LibDir=../lib
 [eeschema/libraries]
-LibName1=C:/mcci/Marketing/TheThingsNetwork/projects/hualian/kicad/lib/mcci-iot-components
-LibName2=Catena-4410-greenhouse-rescue
+LibName1=mcci-iot-components
+LibName2=contrib
 LibName3=power
 LibName4=device
 LibName5=transistors
@@ -58,5 +58,14 @@ LibName26=cypress
 LibName27=siliconi
 LibName28=opto
 LibName29=atmel
-LibName30=contrib
-LibName31=valves
+LibName30=valves
+[schematic_editor]
+version=1
+PageLayoutDescrFile=
+PlotDirectoryName=
+SubpartIdSeparator=0
+SubpartFirstId=65
+NetFmtName=
+SpiceForceRefPrefix=0
+SpiceUseNetNumbers=0
+LabSize=60

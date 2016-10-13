@@ -1,6 +1,6 @@
 EESchema Schematic File Version 2
 LIBS:mcci-iot-components
-LIBS:Catena-4410-greenhouse-rescue
+LIBS:contrib
 LIBS:power
 LIBS:device
 LIBS:transistors
@@ -28,38 +28,26 @@ LIBS:cypress
 LIBS:siliconi
 LIBS:opto
 LIBS:atmel
-LIBS:contrib
 LIBS:valves
 EELAYER 25 0
 EELAYER END
 $Descr B 17000 11000
 encoding utf-8
 Sheet 1 1
-Title "Catena 4410 Greenhouse"
+Title "Catena 4410 Mushroom House"
 Date "2016-10-12"
 Rev "1"
 Comp "MCCI Corporation"
-Comment1 "Greenhouse sensor for Anatolian project"
+Comment1 "Mushroom House sensor for Anatolian project"
 Comment2 "www.mcci.com"
 Comment3 ""
 Comment4 ""
 $EndDescr
 $Comp
-L Catena_4410 A1
-U 1 1 57F7525E
-P 6950 3550
-F 0 "A1" H 8450 3650 60  0000 C CNN
-F 1 "Catena 4410" H 8500 3800 60  0000 C CNN
-F 2 "" H 6950 5150 60  0000 C CNN
-F 3 "" H 6950 5150 60  0000 C CNN
-	1    6950 3550
-	1    0    0    -1  
-$EndComp
-$Comp
-L CONN_01X04 P2
+L CONN_01X04 P1
 U 1 1 57F75EAA
 P 11850 4600
-F 0 "P2" H 11850 4850 50  0000 C CNN
+F 0 "P1" H 11850 4850 50  0000 C CNN
 F 1 "CONN_01X04" V 11950 4600 50  0000 C CNN
 F 2 "" H 11850 4600 50  0000 C CNN
 F 3 "" H 11850 4600 50  0000 C CNN
@@ -75,10 +63,10 @@ Soil.SDA
 Text Label 11300 4750 0    60   ~ 0
 Soil.GND
 $Comp
-L SHT10 S2
+L SHT10 S1
 U 1 1 57F7672F
 P 12750 4450
-F 0 "S2" H 14050 4300 60  0000 C CNN
+F 0 "S1" H 14050 4300 60  0000 C CNN
 F 1 "SHT10" H 14050 4400 60  0000 C CNN
 F 2 "" H 14050 4300 60  0000 C CNN
 F 3 "" H 14050 4300 60  0000 C CNN
@@ -86,10 +74,10 @@ F 3 "" H 14050 4300 60  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L CONN_01X04 P4
+L CONN_01X04 P2
 U 1 1 57F77A93
 P 12400 4600
-F 0 "P4" H 12400 4850 50  0000 C CNN
+F 0 "P2" H 12400 4850 50  0000 C CNN
 F 1 "CONN_01X04" V 12500 4600 50  0000 C CNN
 F 2 "" H 12400 4600 50  0000 C CNN
 F 3 "" H 12400 4600 50  0000 C CNN
@@ -220,10 +208,10 @@ Wire Wire Line
 Wire Wire Line
 	10600 4150 10150 4150
 $Comp
-L R R2
+L R R1
 U 1 1 57FC677B
 P 10700 5000
-F 0 "R2" V 10780 5000 50  0000 C CNN
+F 0 "R1" V 10780 5000 50  0000 C CNN
 F 1 "10K" V 10700 5000 50  0000 C CNN
 F 2 "" V 10630 5000 50  0000 C CNN
 F 3 "" H 10700 5000 50  0000 C CNN
@@ -248,29 +236,25 @@ NoConn ~ 10150 5600
 NoConn ~ 10150 5700
 NoConn ~ 10150 4550
 NoConn ~ 10150 4650
+Text Notes 5700 5000 0    60   ~ 0
+LiPo Battery
 $Comp
-L SOLAR_PANEL SP1
-U 1 1 57FEF831
-P 3500 3300
-F 0 "SP1" H 4300 2000 60  0000 C CNN
-F 1 "SOLAR_PANEL" H 4250 3350 60  0000 C CNN
-F 2 "" H 1550 3200 60  0000 C CNN
-F 3 "" H 1550 3200 60  0000 C CNN
-	1    3500 3300
+L Catena_4410 A1
+U 1 1 57F7525E
+P 6950 3550
+F 0 "A1" H 8450 3650 60  0000 C CNN
+F 1 "Catena 4410" H 8500 3800 60  0000 C CNN
+F 2 "" H 6950 5150 60  0000 C CNN
+F 3 "" H 6950 5150 60  0000 C CNN
+	1    6950 3550
 	1    0    0    -1  
 $EndComp
-Wire Wire Line
-	6300 3800 6450 3800
-Wire Wire Line
-	6450 3800 6450 3550
-Wire Wire Line
-	6450 3550 6950 3550
-Wire Wire Line
-	6300 3900 6450 3900
-Wire Wire Line
-	6450 3900 6450 4150
-Wire Wire Line
-	6450 4150 6950 4150
-Text Notes 5050 5350 0    60   ~ 0
-LiPo Battery
+Wire Notes Line
+	5650 3850 6550 3850
+Wire Notes Line
+	6550 3850 6400 3650
+Wire Notes Line
+	6550 3850 6400 4050
+Text Notes 3250 3900 0    60   ~ 0
+Provide power via external 0.5W USB Charger\n
 $EndSCHEMATC

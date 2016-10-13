@@ -1,4 +1,4 @@
-update=2016-10-12 20:12:32
+update=2016-10-13 00:03:08
 version=1
 last_client=kicad
 [pcbnew]
@@ -59,3 +59,13 @@ LibName27=siliconi
 LibName28=opto
 LibName29=atmel
 LibName30=contrib
+[schematic_editor]
+version=1
+PageLayoutDescrFile=
+PlotDirectoryName=
+SubpartIdSeparator=0
+SubpartFirstId=65
+NetFmtName=
+SpiceForceRefPrefix=0
+SpiceUseNetNumbers=0
+LabSize=60
