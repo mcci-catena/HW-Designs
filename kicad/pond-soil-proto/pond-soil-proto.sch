@@ -6,7 +6,6 @@ LIBS:power
 LIBS:ac-dc
 LIBS:analog_devices
 LIBS:device
-LIBS:pond-soil-proto-cache
 EELAYER 25 0
 EELAYER END
 $Descr B 17000 11000
@@ -21,21 +20,6 @@ Comment2 "www.mcci.com"
 Comment3 ""
 Comment4 ""
 $EndDescr
-Text Notes 4800 3050 0    70   ~ 0
-USB micro-A
-Text Notes 1500 4750 0    70   ~ 0
-Cut off the end of a USB charging cable \nand solder to the solar panel. Diode is \nto drop the source voltage slightly, position\nat solar panel
-$Comp
-L BATTERY SOLARPANEL1
-U 1 1 57F733C0
-P 1900 3750
-F 0 "SOLARPANEL1" H 1750 3949 70  0000 L BNN
-F 1 "5.5V" H 1751 3500 70  0000 L BNN
-F 2 "BATTERY" H 1890 3540 65  0001 L TNN
-F 3 "" H 1900 3750 60  0001 C CNN
-	1    1900 3750
-	0    1    1    0   
-$EndComp
 $Comp
 L Catena_4410 A1
 U 1 1 57F7525E
@@ -46,21 +30,6 @@ F 2 "" H 6950 5150 60  0000 C CNN
 F 3 "" H 6950 5150 60  0000 C CNN
 	1    6950 3550
 	1    0    0    -1  
-$EndComp
-NoConn ~ 5050 3750
-NoConn ~ 5050 3850
-NoConn ~ 5050 3950
-NoConn ~ 4300 4350
-$Comp
-L USB_OTG P1
-U 1 1 57F757FF
-P 5350 3850
-F 0 "P1" H 5675 3725 50  0000 C CNN
-F 1 "USB_OTG" H 5350 4050 50  0000 C CNN
-F 2 "" V 5300 3750 50  0000 C CNN
-F 3 "" V 5300 3750 50  0000 C CNN
-	1    5350 3850
-	0    1    1    0   
 $EndComp
 $Comp
 L CONN_01X04 P2
@@ -210,25 +179,10 @@ F 3 "" H 11250 3450 50  0000 C CNN
 $EndComp
 Text Notes 10700 3050 0    60   ~ 0
 Reset
-$Comp
-L D D1
-U 1 1 57F832E2
-P 3250 3450
-F 0 "D1" H 3250 3550 50  0000 C CNN
-F 1 "1N4004" H 3250 3350 50  0000 C CNN
-F 2 "" H 3250 3450 50  0000 C CNN
-F 3 "" H 3250 3450 50  0000 C CNN
-	1    3250 3450
-	-1   0    0    -1  
-$EndComp
 NoConn ~ 10150 6700
 NoConn ~ 10150 6200
 NoConn ~ 10150 6300
 NoConn ~ 10150 6400
-Wire Wire Line
-	1900 4250 5000 4250
-Wire Wire Line
-	3400 3450 5000 3450
 Wire Wire Line
 	10150 5300 10500 5300
 Wire Wire Line
@@ -241,12 +195,6 @@ Wire Wire Line
 	10700 4550 11650 4550
 Wire Wire Line
 	10600 4650 11650 4650
-Wire Notes Line
-	5700 3850 6700 3850
-Wire Notes Line
-	6700 3850 6600 3750
-Wire Notes Line
-	6700 3850 6600 3950
 Wire Wire Line
 	6850 4700 6850 4900
 Wire Wire Line
@@ -255,28 +203,6 @@ Wire Wire Line
 	6850 5250 6850 5150
 Wire Wire Line
 	6850 5150 6950 5150
-Wire Wire Line
-	5000 3450 5000 3650
-Wire Wire Line
-	5000 3650 5050 3650
-Wire Wire Line
-	5000 4250 5000 4050
-Wire Wire Line
-	5000 4050 5050 4050
-Wire Notes Line
-	4200 3350 4350 3350
-Wire Notes Line
-	4350 3350 4350 4350
-Wire Notes Line
-	4350 4350 4200 4350
-Wire Notes Line
-	4200 4350 4200 3350
-Wire Wire Line
-	5450 4250 5450 4450
-Wire Wire Line
-	5450 4450 4300 4450
-Wire Wire Line
-	4300 4450 4300 4350
 Wire Wire Line
 	11000 4750 11650 4750
 Wire Wire Line
@@ -310,18 +236,12 @@ Wire Wire Line
 Wire Wire Line
 	12600 4750 12750 4750
 Wire Wire Line
-	1900 3950 1900 4250
-Wire Wire Line
 	5250 5250 5250 5150
 Wire Wire Line
 	5250 4700 6850 4700
 Wire Wire Line
 	5250 4700 5250 4750
 Connection ~ 11000 5900
-Wire Wire Line
-	1900 3450 1900 3550
-Wire Wire Line
-	1900 3450 3100 3450
 Wire Wire Line
 	10600 6050 10600 5700
 Connection ~ 10600 5700
@@ -373,4 +293,23 @@ Text Notes 12950 1150 0    60   ~ 0
 4. Change R1 to 4.7K. Soil sensor is not I2C so reroute to D10 and D11. \n   Add 10K pull-up to Soil.SDA. Improve labels on library for Feature M0\n   assembly to make the pre-defined pins easier to understand.  Make a \n   new library shape for Catena 4410, since that's what this is. Change P3\n   and P5 to match as-built
 Text Notes 12950 1250 0    60   ~ 0
 5. Rename to pond-soil-proto.
+$Comp
+L SOLAR_PANEL SP1
+U 1 1 57FF421B
+P 3770 3270
+F 0 "SP1" H 4520 2020 60  0000 C CNN
+F 1 "SOLAR_PANEL" H 4520 3320 60  0000 C CNN
+F 2 "" H 4620 2670 60  0000 C CNN
+F 3 "" H 4620 2670 60  0000 C CNN
+	1    3770 3270
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	6570 3770 6570 3550
+Wire Wire Line
+	6570 3550 6950 3550
+Wire Wire Line
+	6570 3870 6570 4150
+Wire Wire Line
+	6570 4150 6950 4150
 $EndSCHEMATC
