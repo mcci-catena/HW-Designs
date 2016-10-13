@@ -6,14 +6,15 @@ LIBS:power
 LIBS:ac-dc
 LIBS:analog_devices
 LIBS:device
+LIBS:pond-soil-proto-cache
 EELAYER 25 0
 EELAYER END
 $Descr B 17000 11000
 encoding utf-8
 Sheet 1 1
 Title "pond-soil-proto.sh"
-Date "2016-10-11"
-Rev "5"
+Date "2016-10-13"
+Rev "6"
 Comp "MCCI Corporation"
 Comment1 "Prototype Soil + Pond Sensor"
 Comment2 "www.mcci.com"
@@ -312,4 +313,6 @@ Wire Wire Line
 	6570 3870 6570 4150
 Wire Wire Line
 	6570 4150 6950 4150
+Text Notes 12955 1365 0    60   ~ 0
+6. Replace solar panel circuit with solar panel symbol
 $EndSCHEMATC
