@@ -1,6 +1,8 @@
 # HW-Designs
 This repository contains hardware information about [MCCI](http://www.mcci.com)'s open-source hardware designs for Catena LoRaWAN projects.
 
+<img src="/assets/MCCI-Catena-4410-1080x620.jpg" alt="Image of Catena 4410" /> <Img src="/assets/catena-4410-hualian-kit-20161104-rough-1024x871.jpg" alt="Image of garden shipment" />
+
 All schematics are prepared with [KiCad](http://kicad-pcb.org/), an open-source hardware design package that is freely available. 
 Schematics can be found in the kicad/ subdirectory. 
 
