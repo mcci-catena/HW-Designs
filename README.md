@@ -9,7 +9,7 @@ Catena 4410
 Catena 4450
 -----------
 <img src="/assets/Catena-4450-Wing.jpg" alt="Image of Catena 4450 wing" /> 
-<img src="/assets/Asseembled_Catena-4450.jpg" alt="Image of Assembled Catena 4450" />
+<img src="/assets/Assembled_Catena-4450.jpg" alt="Image of Assembled Catena 4450" />
 
 All schematics are prepared with [KiCad](http://kicad-pcb.org/), an open-source hardware design package that is freely available. 
 Schematics can be found in the kicad/ subdirectory. 
