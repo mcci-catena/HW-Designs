@@ -11,6 +11,10 @@ Catena 4450
 <img src="/assets/Catena-4450-Wing.jpg" alt="Image of Catena 4450 wing" /> 
 <img src="/assets/Assembled-Catena-4450.jpg" alt="Image of Assembled Catena 4450" />
 
+Catena 4551
+-----------
+<img src="/assets/Catena-4551-Proto.jpg" alt="Image of Catena 4551" /> 
+
 All schematics are prepared with [KiCad](http://kicad-pcb.org/), an open-source hardware design package that is freely available. 
 Schematics can be found in the kicad/ subdirectory. 
 
@@ -26,6 +30,7 @@ kicad/lib/ | the library of common shapes
 kicad/radio-feather-proto/ | AKA the Catena 4420; this design combines an [Adafruit Feather M0 BTLE](https://www.adafruit.com/products/2995) with a separate [Feather RadioWing](https://www.adafruit.com/products/3231) to form a map-the-things node. Code is on branch MCCI-Catena of https://github.com/mcci-catena/mapthethings-arduino.git 
 kicad/solar-panel-0w5-usb/ | the solar panel design for charging the LiPo batteries.
 kicad/Catena-4450/ | Catena 4450 wing schematic and PCB layout documents. Also contains Catena 4450 M102 Assembly instructions.
+kicad/Catena-4551/ | Catena 4551 schematic, Pinout Drawing and other related documents
 
 Software for most of these (apart from the radio-feather-proto) can be found starting here: https://github.com/mcci-catena/Catena4410-Sketches.
 Look particularly at Catena4410_Sensor1.ino, catena4450m101_sensor.ino. All the other repos used are forked and available from https://github.com/mcci-catena.
