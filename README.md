@@ -17,8 +17,7 @@ Catena 4460
 
 Catena 4470
 -----------
-<img src="/assets/Catena-4450-Wing.jpg" alt="Image of Catena 4470 wing" /> 
-<img src="/assets/Assembled-Catena-4450.jpg" alt="Image of Assembled Catena 4470" />
+<img src="/assets/Catena-4470-Wing.jpg" alt="Image of Catena 4470 wing" /> 
 
 Catena 4551
 -----------
