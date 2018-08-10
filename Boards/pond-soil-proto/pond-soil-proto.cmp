@@ -1,0 +1,66 @@
+Cmp-Mod V01 Created by Cvpcb (2015-02-06 BZR 5410)-product   date = Mon 09 Feb 2015 04:12:04 PM PST
+
+BeginCmp
+TimeStamp = /57F73104;
+Reference = BAT1;
+ValeurCmp = BATTERY;
+IdModule  = BATTERY;
+EndCmp
+
+BeginCmp
+TimeStamp = /57F731CC;
+Reference = D1;
+ValeurCmp = 1N4004;
+IdModule  = DO41-10;
+EndCmp
+
+BeginCmp
+TimeStamp = /57F73294;
+Reference = GND5;
+ValeurCmp = TPSB1_27;
+IdModule  = B1_27;
+EndCmp
+
+BeginCmp
+TimeStamp = /57F7335C;
+Reference = SOLARPANEL1;
+ValeurCmp = BATTERY;
+IdModule  = BATTERY;
+EndCmp
+
+BeginCmp
+TimeStamp = /57F73424;
+Reference = TP1;
+ValeurCmp = TPSB1_27;
+IdModule  = B1_27;
+EndCmp
+
+BeginCmp
+TimeStamp = /57F734EC;
+Reference = TP2;
+ValeurCmp = TPSB1_27;
+IdModule  = B1_27;
+EndCmp
+
+BeginCmp
+TimeStamp = /57F735B4;
+Reference = TP3;
+ValeurCmp = TPSB1_27;
+IdModule  = B1_27;
+EndCmp
+
+BeginCmp
+TimeStamp = /57F7367C;
+Reference = TP4;
+ValeurCmp = TPSB1_27;
+IdModule  = B1_27;
+EndCmp
+
+BeginCmp
+TimeStamp = /57F73744;
+Reference = VBUS5;
+ValeurCmp = TPSB1_27;
+IdModule  = B1_27;
+EndCmp
+
+EndListe
