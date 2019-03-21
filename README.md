@@ -32,13 +32,9 @@ Catena 4611/4612
 ----------------
 <img src="/assets/Catena-4612.jpg" alt="Image of Catena 4612" /> 
 
-Catena 4630
-----------------
-<img src="/assets/Catena-4610.jpg" alt="Image of Catena 4630" />
-
 Catena 4801
 ----------------
-<img src="/assets/Catena-4610.jpg" alt="Image of Catena 4801" />
+<img src="/assets/Catena-4801.jpg" alt="Image of Catena 4801" />
 
 All schematics are prepared with [KiCad](http://kicad-pcb.org/), an open-source hardware design package that is freely available. 
 Schematics can be found in the kicad/ subdirectory. 
@@ -60,7 +56,6 @@ Boards/Catena-4470/ | Catena 4450 wing schematic and PCB layout Drawing.
 Boards/Catena-4551/ | Catena 4551 schematic,PCB Layout Drawing, Pinout Drawing, DIY Kit assembly and other related documents.
 Boards/Catena-4610/ | Catena 4610 schematic, Pinout Drawing and User manual.
 Boards/Catena-4611_4612/ | Catena 4611/4612 schematic and PCB Layout Drawing.
-Boards/Catena-4630/ | Catena 4630 schematic and Model 4635 PMS7003 Adapter Board schematic.
 Boards/Catena-4801/ | Catena 4801 schematic and manual.
 
 Software for most of these (apart from the radio-feather-proto) can be found starting here: https://github.com/mcci-catena/Catena-Sketches.
