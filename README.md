@@ -32,6 +32,14 @@ Catena 4611/4612
 ----------------
 <img src="/assets/Catena-4612.jpg" alt="Image of Catena 4612" /> 
 
+Catena 4617
+----------------
+<img src="/assets/Catena-4617.jpg" alt="Image of Catena 4617" />
+
+Catena 4618
+----------------
+<img src="/assets/Catena-4618.jpg" alt="Image of Catena 4618" />
+
 Catena 4630
 ----------------
 <img src="/assets/Catena-4630-With-PMS7003.jpg" alt="Image of Catena 4630" />
@@ -59,7 +67,9 @@ Boards/Catena-4460/ | Catena 4450 wing schematic and PCB layout Drawing.
 Boards/Catena-4470/ | Catena 4450 wing schematic and PCB layout Drawing.
 Boards/Catena-4551/ | Catena 4551 schematic,PCB Layout Drawing, Pinout Drawing, DIY Kit assembly and other related documents.
 Boards/Catena-4610/ | Catena 4610 schematic, Pinout Drawing and User manual.
-Boards/Catena-4611_4612/ | Catena 4611/4612 schematic and PCB Layout Drawing.
+Boards/Catena-4611_4612/ | Catena 4611/4612 schematic, Pinout Drawing, PCB Layout Drawing and User manual.
+Boards/Catena-4617/ | Catena 4617 schematic, Pinout Drawing, PCB Layout Drawing and User manual.
+Boards/Catena-4618/ | Catena 4618 schematic, Pinout Drawing, PCB Layout Drawing and User manual.
 Boards/Catena-4630/ | Catena 4630 schematic and Model 4635 PMS7003 Adapter Board schematic.
 Boards/Catena-4801/ | Catena 4801 schematic and manual.
 
