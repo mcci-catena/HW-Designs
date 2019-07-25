@@ -45,7 +45,7 @@ Directory or file | Contents
 Directory or file | Contents
 ------------------|---------
 [Boards/Catena-4610/](./Boards/Catena-4610/) | [Catena 4610](#catena-4610) schematic, Pinout Drawing and User manual.
-[Boards/Catena-4611_4612/](./Boards/Catena-4611_4612/) | [Catena 4611/4612](#caten- 46114612) schematic, Pinout Drawing, PCB Layout Drawing and User manual.
+[Boards/Catena-4611_4612/](./Boards/Catena-4611_4612/) | [Catena 4611/4612](#catena-46114612) schematic, Pinout Drawing, PCB Layout Drawing and User manual.
 [Boards/Catena-4617/](./Boards/Catena-4617/) | [Catena 4617](#catena-4617) schematic, Pinout Drawing, PCB Layout Drawing and User manual.
 [Boards/Catena-4618/](./Boards/Catena-4618/) | [Catena 4618](#catena-4618) schematic, Pinout Drawing, PCB Layout Drawing and User manual.
 [Boards/Catena-4630/](./Boards/Catena-4630/) | [Catena 4630](#catena-4630) schematic and Model 4635 PMS7003 Adapter Board schematic.
