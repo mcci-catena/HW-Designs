@@ -98,19 +98,19 @@ Directory or file | Contents
 
 ### Catena 4610
 
-![Image of Catena 4610](/assets/Catena-4610.jpg)
+![Image of Catena 4610](Boards/Catena-4610/assets/Catena-4610.jpg)
 
 ### Catena 4611/4612
 
-![Image of Catena 4612](/assets/Catena-4612.jpg)
+![Image of Catena 4612](Boards/Catena-4611_4612/assets/Catena-4612.jpg)
 
 ### Catena 4617
 
-![Image of Catena 4617](/assets/Catena-4617.jpg)
+![Image of Catena 4617](Boards/Catena-4617/assets/Catena-4617.jpg)
 
 ### Catena 4618
 
-![Image of Catena 4618](/assets/Catena-4618.jpg)
+![Image of Catena 4618](Boards/Catena-4618/assets/Catena-4618.jpg)
 
 ### Catena 4630
 
@@ -122,5 +122,5 @@ Directory or file | Contents
 
 ### Catena 4801
 
-![Image of Catena 4801](/assets/Catena-4801.jpg)
-![Image of Catena 4801](/assets/Catena-4801.jpg)
+![Image of Catena 4801](Boards/Catena-4801/assets/Catena-4801.jpg)
+
