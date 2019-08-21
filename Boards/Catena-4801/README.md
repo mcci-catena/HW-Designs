@@ -53,15 +53,15 @@ This design compatible with the [Adafruit Feather](https://www.adafruit.com/feat
 
 ### Pinout diagram
 
-[![Pinout diagram](./Catena-4801/Catena-4801-Pinout.png)](./Catena-4801/Catena-4801-Pinout.png)
+[![Pinout diagram](./Catena-4801-Pinout.png)](./Catena-4801-Pinout.png)
 
 ### Schematics
 
-Schematics are available [here](Catena-4801/234001117b_(Catena-4801-Schematic).pdf).
+Schematics are available [here](234001117b_(Catena-4801-Schematic).pdf).
 
 ### PCB Design Info
 
-PCB Design info is available [here](Catena-4801/234001115a_(Catena-4801-PCB-Layout-Fabrication-Drawing).pdf)
+PCB Design info is available [here](234001115a_(Catena-4801-PCB-Layout-Fabrication-Drawing).pdf)
 
 ### User Manual
 

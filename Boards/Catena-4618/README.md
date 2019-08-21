@@ -43,15 +43,15 @@ This designed is based on the Murata LoRa Module [CMWX1ZZABZ-078](https://wirele
 
 ### Pinout diagram
 
-[![Pinout diagram](./Catena-4618/Catena-4611_4612_4617_4618-Pinout.png)](./Catena-4618/Catena-4611_4612_4617_4618-Pinout.png)
+[![Pinout diagram](./Catena-4611_4612_4617_4618-Pinout.png)](./Catena-4611_4612_4617_4618-Pinout.png)
 
 ### Schematics
 
-Schematics are available [here](Catena-4618/234001204a_(Catena-4618-Schematic).pdf).
+Schematics are available [here](234001204a_(Catena-4618-Schematic).pdf).
 
 ### PCB Design Info
 
-PCB Design info is available [here](Catena-4618/234001206a_(Catena-4618-PCB-Layout-Fabrication-Drawing).pdf)
+PCB Design info is available [here](234001206a_(Catena-4618-PCB-Layout-Fabrication-Drawing).pdf)
 
 ### User Manual
 
