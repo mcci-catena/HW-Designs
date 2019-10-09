@@ -14,27 +14,28 @@ Software can be found starting here: https://github.com/mcci-catena/Catena-Sketc
 -->
 <!-- markdownlint-capture -->
 <!-- markdownlint-disable -->
-<!-- TOC depthFrom:2 updateOnSave:true -->
+<!-- TOC depthFrom:1 updateOnSave:false -->
 
-- [Hardware Documents](#hardware-documents)
-        - [Feather Wings](#feather-wings)
-        - [Stand-alone Boards](#stand-alone-boards)
-        - [Other documents](#other-documents)
-        - [Older boards and reference material](#older-boards-and-reference-material)
-- [Gallery](#gallery)
-        - [Catena 4450](#catena-4450)
-        - [Catena 4460](#catena-4460)
-        - [Catena 4470](#catena-4470)
-        - [Catena 4610](#catena-4610)
-        - [Catena 4611/4612](#catena-46114612)
-        - [Catena 4618](#catena-4618)
-        - [Catena 4630](#catena-4630)
-        - [Catena 4710](#catena-4710)
-        - [Catena 4801](#catena-4801)
-- [Retired Boards](#retired-boards)
-        - [Catena 4410](#catena-4410)
-        - [Catena 4551](#catena-4551)
-        - [Catena 4617](#catena-4617)
+- [HW-Designs](#hw-designs)
+	- [Hardware Documents](#hardware-documents)
+		- [Feather Wings](#feather-wings)
+		- [Stand-alone Boards](#stand-alone-boards)
+		- [Other documents](#other-documents)
+		- [Older boards and reference material](#older-boards-and-reference-material)
+	- [Gallery](#gallery)
+		- [Catena 4450](#catena-4450)
+		- [Catena 4460](#catena-4460)
+		- [Catena 4470](#catena-4470)
+		- [Catena 4610](#catena-4610)
+		- [Catena 4611/4612](#catena-46114612)
+		- [Catena 4618](#catena-4618)
+		- [Catena 4630](#catena-4630)
+		- [Catena 4710](#catena-4710)
+		- [Catena 4801](#catena-4801)
+	- [Retired Boards](#retired-boards)
+		- [Catena 4410](#catena-4410)
+		- [Catena 4551](#catena-4551)
+		- [Catena 4617](#catena-4617)
 
 <!-- /TOC -->
 <!-- markdownlint-restore -->
