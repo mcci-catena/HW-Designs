@@ -107,7 +107,7 @@ Directory or file | Contents
 
 ### Catena 4611/4612
 
-[![Image of Catena 4612](/assets/Catena-4612.jpg)](Boards/Catena-4612 "Link to design info for Catena 4612")
+[![Image of Catena 4612](/assets/Catena-4612.jpg)](./Boards/Catena-4611_4612/ "Link to design info for Catena 4612")
 
 ### Catena 4618
 
