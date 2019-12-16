@@ -11,7 +11,7 @@ This directory contains hardware information about the [MCCI Catena 4430](https:
 The following files are provided in this directory.
 
 - [Schematics](./234001199b_(Catena-4430-Schematic).pdf)
-- [PCB Fabrication Drawing](./234001201a_(Catena-4430-PCB-Layout-Fabrication-Drawing).pdf)
+- [PCB Fabrication Drawing](./234001201a_(Catena-4430-Shield-PCB-Layout-Fabrication-Drawing).pdf)
 - [Pinout and functional diagram](Catena-4430-PinMapping.png)
 
 For help, raise an issue here, or go to MCCI's [support portal](https://portal.mcci.com).
