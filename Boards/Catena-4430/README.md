@@ -2,9 +2,8 @@
 
 This directory contains hardware information about the [MCCI Catena 4430](https://mcci.io/catena4430).
 
-|            |             |
--------------|-------------
-![Picture of Catena 4430](/assets/Catena-4430.jpeg) | ![Pinout of Catena 4430](./Catena-4430-PinMapping.png)
+
+ ![Pinout of Catena 4430](./Catena-4430-PinMapping.png)
 
 ## MCCI Documentation
 
