@@ -5,7 +5,7 @@ This directory contains hardware information about the [MCCI Catena 4612](https:
 
 |            |             |
 -------------|-------------
-![Picture of Catena 4612](/assets/Catena-4612.jpg) | ![Pinout of Catena 4612](./Catena-4611_4612_4617_4618-Pinout.png)
+![Picture of Catena 4612](/assets/Catena-4612.jpg) | ![Pinout of Catena 4612](./Catena-4611_4612_4617_4618_4618-M201_Pinout.png)
 
 This information also applies to the Catena 4611. The Catena 4611 is identical to to 4612, but only operates with regulated 3.3V -- the EN pin switches VDD off and on, rather than switching from unregulated Vbat to regulated 3.3V. The 4611 is available by special order.
 
