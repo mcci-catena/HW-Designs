@@ -3,7 +3,7 @@
 This directory contains hardware information about the [MCCI Catena 4470](https://store.mcci.com/collections/lorawan-iot-and-the-things-network/products/mcci-catena-4470-modbus-node-for-lorawan-technology).
 
 
-![Picture of Catena 4470](/assets/Catena-4470-Wing.jpg) | ![Catena 4470 Assembled](/assets/Catena-4470-Assembled.jpg)
+![Picture of Catena 4470](/assets/Catena-4470-wing.jpg) | ![Catena 4470 Assembled](/assets/Catena-4470-Assembled.jpg)
  
 ## MCCI Documentation
 
