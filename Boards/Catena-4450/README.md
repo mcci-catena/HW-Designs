@@ -20,5 +20,5 @@ For help, raise an issue here, or go to MCCI's [support portal](https://portal.m
 All links are to vendor sites.
 
 - Lux Sensor, BH1750FVI-TR: [Lux Sensor.pdf](https://www.mouser.com/datasheet/2/348/bh1750fvi-e-186247.pdf)
-- Temperature, pressure, and humidity sensor, [Bosch BME280](https://ae-bst.resource.bosch.com/media/_tech/media/datasheets/BST-BME280-DS002.pdf)
+- Temperature, pressure, and humidity sensor: [Bosch BME280](https://ae-bst.resource.bosch.com/media/_tech/media/datasheets/BST-BME280-DS002.pdf)
 - FRAM 16Kb, FM24CL16B: [FRAM.pdf](https://www.cypress.com/file/136491/download)

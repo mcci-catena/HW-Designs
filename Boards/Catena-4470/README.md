@@ -3,7 +3,7 @@
 This directory contains hardware information about the [MCCI Catena 4470](https://store.mcci.com/collections/lorawan-iot-and-the-things-network/products/mcci-catena-4470-modbus-node-for-lorawan-technology).
 
 
- ![Picture of Catena 4470](/assets/Catena-4470-Wing.jpg) | ![Assembled Catena 4470](/assets/Catena-4470-Assembled.jpg)
+![Picture of Catena 4470](/assets/Catena-4470-Wing.jpg) | ![Catena 4470 Assembled](/assets/Catena-4470-Assembled.jpg)
  
 ## MCCI Documentation
 
@@ -20,6 +20,6 @@ For help, raise an issue here, or go to MCCI's [support portal](https://portal.m
 All links are to vendor sites.
 
 - Lux Sensor, BH1750FVI-TR: [Lux Sensor.pdf](https://www.mouser.com/datasheet/2/348/bh1750fvi-e-186247.pdf)
-- Temperature, pressure, and humidity sensor, [Bosch BME280](https://ae-bst.resource.bosch.com/media/_tech/media/datasheets/BST-BME280-DS002.pdf)
+- Temperature, pressure, and humidity sensor: [Bosch BME280](https://ae-bst.resource.bosch.com/media/_tech/media/datasheets/BST-BME280-DS002.pdf)
 - FRAM 16Kb, FM24CL16B: [FRAM.pdf](https://www.cypress.com/file/136491/download)
 - SPI Flash IC 8Mb, AT25SF081: [Flash.pdf](https://www.adestotech.com/wp-content/uploads/DS-AT25SF081_045.pdf)
