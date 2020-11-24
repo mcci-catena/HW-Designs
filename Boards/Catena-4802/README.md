@@ -1,4 +1,4 @@
-# MCCI Catena&reg; 4801 RS485 Node
+# MCCI Catena&reg; 4802 RS485/Sensor Node
 
 This directory contains hardware information about the [MCCI Catena&reg; 4802](https://mcci.io/catena4802).
 
