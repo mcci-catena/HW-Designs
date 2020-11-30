@@ -4,7 +4,7 @@ This directory contains hardware information about the [MCCI Catena&reg; 4802](h
 
 |            |             |
 -------------|-------------
-![Picture of Catena 4802](./assets/Catena-4802.png) | ![Pinout of Catena 4802](./Catena-4802-Pinout.png)
+![Picture of Catena 4802](./assets/Catena-4802.jpg) | ![Pinout of Catena 4802](./Catena-4802-Pinout.png)
 
 ## MCCI Documentation
 
