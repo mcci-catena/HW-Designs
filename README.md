@@ -44,7 +44,7 @@ Software can be found starting here: https://github.com/mcci-catena/Catena-Sketc
 
 ## Hardware Documents
 
-All schematics are prepared with [KiCad](http://kicad-pcb.org/), an open-source hardware design package that is freely available.
+All schematics are prepared with [KiCad](http://kicad.org/), an open-source hardware design package that is freely available.
 
 ### Feather Wings
 
