@@ -32,6 +32,7 @@ Software can be found starting here: https://github.com/mcci-catena/Catena-Sketc
 		- [Catena 4630](#catena-4630)
 		- [Catena 4710](#catena-4710)
 		- [Catena 4801](#catena-4801)
+		- [Catena 4802](#catena-4802)
 	- [Retired Boards](#retired-boards)
 		- [Catena 4410](#catena-4410)
 		- [Catena 4551](#catena-4551)
@@ -43,7 +44,7 @@ Software can be found starting here: https://github.com/mcci-catena/Catena-Sketc
 
 ## Hardware Documents
 
-All schematics are prepared with [KiCad](http://kicad-pcb.org/), an open-source hardware design package that is freely available.
+All schematics are prepared with [KiCad](http://kicad.org/), an open-source hardware design package that is freely available.
 
 ### Feather Wings
 
@@ -64,6 +65,7 @@ Directory or file | Contents
 [Boards/Catena-4630/](./Boards/Catena-4630/) | [Catena 4630](#catena-4630) schematic and Model 4635 PMS7003 Adapter Board schematic.
 [Boards/Catena-4710/](./Boards/Catena-4710) | [Catena 4710](#catena-4710) schematic, Pinout Drawing, PCB Layout Drawing, and overview.
 [Boards/Catena-4801/](./Boards/Catena-4801/) | [Catena 4801](#catena-4801) schematic and manual.
+[Boards/Catena-4802/](./Boards/Catena-4802/) | [Catena 4802](#catena-4802) schematic, Pinout Drawing, PCB Layout Drawing.
 
 ### Other documents
 
@@ -124,7 +126,11 @@ Directory or file | Contents
 ### Catena 4801
 
 ![Image of Catena 4801](/assets/Catena-4801.jpg)
-![Image of Catena 4801](/assets/Catena-4801.jpg)
+
+### Catena 4802
+
+![Image of Catena 4802](/assets/Catena-4802.jpg)
+![Image of Catena 4802](/assets/Catena-4802-Assembled.jpg)
 
 ## Retired Boards
 
