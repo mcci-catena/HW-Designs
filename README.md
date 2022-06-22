@@ -53,6 +53,7 @@ Directory or file | Contents
 [Boards/Catena-4450/](Boards/Catena-4450/) | [Catena 4450 wing](#catena-4450) schematic and PCB layout Drawing. Also contains Catena 4450 DIY Kit Assembly instructions.
 [Boards/Catena-4460/](Boards/Catena-4460/) | [Catena 4460 wing](#catena-4460) schematic and PCB layout Drawing.
 [Boards/Catena-4470/](./Boards/Catena-4470/) | [Catena 4470 wing](#catena-4470) schematic and PCB layout Drawing.
+[Boards/Model-4906/](Boards/Model-4906/) | [Model 4906 wing](#Model-4906) Datasheet, schematic and PCB layout Drawing.
 
 ### Stand-alone Boards
 
