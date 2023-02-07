@@ -10,8 +10,8 @@ This directory contains hardware information about the [MCCI Catena 4618](https:
 
 The following files are provided in this directory.
 
-- [Schematics](./234001204a_(Catena-4618-Schematic).pdf)
-- [PCB Fabrication Drawing](./234001206a_(Catena-4618-PCB-Layout-Fabrication-Drawing).pdf)
+- [Schematics](./234001204b_(Catena-4618-Rev-B-Schematic).pdf)
+- [PCB Fabrication Drawing](./234001206b_(Catena-4618-PCB-Layout-Fabrication-Drawing).pdf)
 - [User guide](234001225a_(Catena-4618-User-Manual).pdf)
 - [Pinout and functional diagram](Catena-4611_4612_4617_4618_4618-M201_Pinout.png)
 
@@ -22,7 +22,7 @@ For help, raise an issue here, or go to MCCI's [support portal](https://portal.m
 All links are to vendor sites.
 
 - Temperature and humidity sensor, Sensirion SHT31-DIS-F: [Sensirion_Humidity_Sensors_SHT3x_Datasheet_digital.pdf](https://www.sensirion.com/fileadmin/user_upload/customers/sensirion/Dokumente/0_Datasheets/Humidity/Sensirion_Humidity_Sensors_SHT3x_Datasheet_digital.pdf)
-- Light sensor, Silicon Labs Si1133: [Si1133.pdf](https://www.silabs.com/documents/public/data-sheets/Si1133.pdf)
+- Optical Ambient sensor, Lite-On LTR-329ALS-01: [LTR-329ALS-01.pdf](https://optoelectronics.liteon.com/upload/download/DS86-2014-0006/LTR-329ALS-01_DS_V1.pdf)
 - Fujitsu 8k x 8 FRAM: [MB85RC64TA-DS501-00044-3v0-E.pdf](https://www.fujitsu.com/global/documents/products/devices/semiconductor/fram/lineup/MB85RC64TA-DS501-00044-3v0-E.pdf)
 - Murata module: [type_abz.pdf](https://wireless.murata.com/pub/RFM/data/type_abz.pdf)
 - STM32L0 reference manual: [DM00108281.pdf](https://www.st.com/resource/en/reference_manual/DM00108281.pdf)
