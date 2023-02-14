@@ -12,9 +12,9 @@ This directory contains hardware information about the [MCCI Catena&reg; 4630](h
 
 The following files are provided in this directory.
 
-- [Schematic of Catena 4630.](./234001168f_(Catena-4630-Rev-F-Schematic))
-- [Pinout and functional diagram.](./234001191b_(Catena-4630-PinMapping))
-- [Datasheet.](./971001061a_(Catena4630-Datasheet))
+- [Schematic of Catena 4630.](./234001168f_(Catena-4630-Rev-F-Schematic).pdf)
+- [Pinout and functional diagram.](./234001191b_(Catena-4630-PinMapping).png)
+- [Datasheet.](./971001061a_(Catena4630-Datasheet).pdf)
 
 For help, raise an issue here, or go to MCCI's [support portal](https://portal.mcci.com).
 
