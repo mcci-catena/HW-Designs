@@ -10,7 +10,7 @@ This directory contains hardware information about the [MCCI Catena&reg; 4801](h
 
 The following files are provided in this directory.
 
-- [Schematics](234001117b_(Catena-4801-Schematic).pdf)
+- [Schematics](234001117c_(Catena-4801-Rev-C-Schematic).pdf)
 - [User guide](./234001157a_(Catena-4801-User-Manual).pdf)
 - [Pinout and functional diagram](./Catena-4801-Pinout.png)
 
